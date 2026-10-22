@@ -1,5 +1,12 @@
 # Coinbase Pro [![CircleCI](https://circleci.com/gh/coinbase/coinbase-pro-node.svg?style=svg)](https://circleci.com/gh/coinbase/coinbase-pro-node) [![npm version](https://badge.fury.io/js/coinbase-pro.svg)](https://badge.fury.io/js/coinbase-pro)
 
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** This README documents the original Coinbase Pro Node.js SDK and its historical API examples. Coinbase Pro is a legacy product/API; do not treat these examples as a current Coinbase Advanced Trade integration.
+> 
+> **Security:** Keep exchange credentials out of the repository and test with read-only or sandbox permissions when possible. Confirm endpoint availability and current API documentation before writing order-placement code.
+<!-- repo-entrypoint-guide:end -->
+
+
 **Note**: The `gdax` package is deprecated and might have to be removed from NPM.
 Please migrate to the `coinbase-pro` package to ensure future compatibility.
 
